@@ -1,0 +1,563 @@
+conno;cou;nodeno;sta;dena;z6;tech;fuel;cap;eff;co2;coal;BnetzA;Plantname;0;dena
+p001;DE;n377;DE_BW;dena42;DE_SW;coal;coal;336;0.42;0.86;4.12;BNA0019;Heizkraftwerk Altbach/Deizisau;0;42
+p002;DE;n377;DE_BW;dena42;DE_SW;coal;coal;433;0.39;0.93;4.44;BNA0020;Heizkraftwerk Altbach/Deizisau;0;42
+p003;DE;n133;DE_NRW;dena73;DE_WE;coal;coal;717;0.38;0.95;3.04;BNA0067;Bergkamen;0;73
+p004;DE;n073;DE_BE;dena81;DE_NE;coal;coal;282;0.39;0.92;1.46;BNA0086;Reuter West;0;81
+p005;DE;n073;DE_BE;dena81;DE_NE;coal;coal;282;0.4;0.91;1.45;BNA0087;Reuter West;0;81
+p006;DE;n334;DE_SL;dena75;DE_SW;coal;coal;721;0.38;0.94;4.5;BNA0093;Kraftwerk Bexbach;0;75
+p007;DE;n214;DE_SN;dena84;DE_EA;lig;lig;875;0.4;1;0;BNA0115;Lippendorf;0;84
+p008;DE;n214;DE_SN;dena84;DE_EA;lig;lig;875;0.4;1.01;0;BNA0116;Braunkohlekraftwerk Lippendorf;0;84
+p009;DE;n184;DE_SN;dena84;DE_EA;lig;lig;465;0.35;1.14;0;BNA0122;Boxberg;0;84
+p010;DE;n184;DE_SN;dena84;DE_EA;lig;lig;465;0.35;1.14;0;BNA0123;Boxberg;0;84
+p011;DE;n184;DE_SN;dena84;DE_EA;lig;lig;857;0.4;1;0;BNA0124;Boxberg;0;84
+p012;DE;n047;DE_NI;dena22;DE_NW;coal;coal;350;0.35;1.04;0.83;BNA0147;Farge;0;22
+p013;DE;n020;DE_SH;dena21;DE_NW;nuc;nuc;1410;0.33;0;0;BNA0157;Brokdorf;0;21
+p014;DE;n019;DE_SH;dena21;DE_NW;oil;oil;67;0.31;0.85;0;BNA0161;Brunsbüttel;0;21
+p015;DE;n019;DE_SH;dena21;DE_NW;oil;oil;67;0.31;0.85;0;BNA0162;Brunsbüttel;0;21
+p016;DE;n019;DE_SH;dena21;DE_NW;oil;oil;67;0.31;0.85;0;BNA0163;Brunsbüttel;0;21
+p017;DE;n019;DE_SH;dena21;DE_NW;oil;oil;67;0.31;0.85;0;BNA0164;Brunsbüttel;0;21
+p018;DE;n152;DE_NRW;dena72;DE_WE;coal;coal;345;0.35;1.02;3.26;BNA0203;Knepper;0;72
+p019;DE;n162;DE_NRW;dena72;DE_WE;coal;coal;370;0.4;0.91;2.9;BNA0216;KW Walsum;0;72
+p020;DE;n049;DE_NI;dena22;DE_NW;gas;gas;372;0.32;0.58;0;BNA0239;Huntorf;0;22
+p021;DE;n041;DE_NI;dena22;DE_NW;gas;gas;58;0.31;0.61;0;BNA0245a;Emden Gas;0;22
+p022;DE;n110;DE_NI;dena23;DE_NW;nuc;nuc;1360;0.33;0;0;BNA0251;Grohnde;0;23
+p023;DE;n348;DE_SL;dena75;DE_SW;coal;coal;106;0.33;1.08;5.18;BNA0253;Kraftwerk Ensdorf;0;75
+p024;DE;n382;DE_BY;dena26;DE_SE;nuc;nuc;1410;0.33;0;0;BNA0263;Isar 2;0;26
+p025;DE;n226;DE_NRW;dena72;DE_WE;lig;lig;284;0.32;1.26;0;BNA0313;Frimmersdorf;0;72
+p026;DE;n222;DE_NRW;dena72;DE_WE;lig;lig;278;0.33;1.22;0;BNA0314;Frimmersdorf;0;72
+p027;DE;n147;DE_NRW;dena72;DE_WE;coal;coal;345;0.35;1.04;3.3;BNA0331;Scholven;0;72
+p028;DE;n141;DE_NRW;dena72;DE_WE;coal;coal;345;0.35;1.04;3.33;BNA0332;Scholven;0;72
+p029;DE;n141;DE_NRW;dena72;DE_WE;coal;coal;345;0.35;1.03;3.28;BNA0333;Scholven;0;72
+p030;DE;n141;DE_NRW;dena72;DE_WE;coal;coal;345;0.35;1.02;3.26;BNA0334;Scholven;0;72
+p031;DE;n141;DE_NRW;dena72;DE_WE;coal;coal;676;0.37;0.97;3.08;BNA0335;Scholven;0;72
+p032;DE;n298;DE_BY;dena25;DE_SE;nuc;nuc;1275;0.33;0;0;BNA0355;Grafenrheinfeld;0;25
+p033;DE;n291;DE_HE;dena24;DE_WE;coal;coal;249;0.34;1.07;4.25;BNA0375;Staudinger;0;24
+p034;DE;n291;DE_HE;dena24;DE_WE;coal;coal;510;0.41;0.89;3.54;BNA0377;Staudinger;0;24
+p035;DE;n375;DE_BY;dena26;DE_SE;oil;oil;409;0.36;0.75;0;BNA0378;Ingolstadt;0;26
+p036;DE;n375;DE_BY;dena26;DE_SE;oil;oil;409;0.36;0.75;0;BNA0379;Ingolstadt;0;26
+p037;DE;n390;DE_BY;dena76;DE_SE;nuc;nuc;1284;0.33;0;0;BNA0381;Gundremmingen;0;76
+p038;DE;n390;DE_BY;dena76;DE_SE;nuc;nuc;1288;0.33;0;0;BNA0382;Gundremmingen;0;76
+p039;DE;n135;DE_NRW;dena73;DE_WE;ccgt;gas;417;0.57;0.33;0;BNA0410;Trianel Gaskraftwerk ;0;73
+p040;DE;n135;DE_NRW;dena73;DE_WE;ccgt;gas;421;0.57;0.33;0;BNA0411;Trianel Gaskraftwerk ;0;73
+p041;DE;n354;DE_BW;dena41;DE_SW;coal;coal;778;0.39;0.93;4.44;BNA0434;Heizkraftwerk Heilbronn;0;41
+p042;DE;n101;DE_NI;dena23;DE_NW;lig;lig;352;0.36;1.1;0;BNA0439;Buschhaus;0;23
+p043;DE;n177;DE_NRW;dena72;DE_WE;coal;coal;280;0.34;1.06;3.37;BNA0449;KW Herne;0;72
+p044;DE;n173;DE_NRW;dena72;DE_WE;coal;coal;449;0.4;0.91;2.89;BNA0450;KW Herne;0;72
+p045;DE;n086;DE_NI;dena23;DE_NW;coal;coal;690;0.37;0.97;1.54;BNA0464;KWM;0;23
+p046;DE;n197;DE_NRW;dena72;DE_WE;oth;oil;361;0.35;0.74;0;BNA0485;Huckingen;0;72
+p047;DE;n197;DE_NRW;dena72;DE_WE;oth;oil;361;0.35;0.74;0;BNA0486;Huckingen;0;72
+p048;DE;n094;DE_NRW;dena71;DE_NW;coal;coal;794;0.39;0.93;2.22;BNA0493;Ibbenbüren;0;71
+p049;DE;n361;DE_BW;dena41;DE_SW;ccgt;gas;353;0.53;0.35;0;BNA0514;Rheinhafen-Dampfkraftwerk;0;41
+p050;DE;n361;DE_BW;dena41;DE_SW;coal;coal;505;0.39;0.93;4.44;BNA0518;Rheinhafen-Dampfkraftwerk;0;41
+p051;DE;n008;DE_SH;dena21;DE_NW;coal;coal;323;0.35;1.03;0.82;BNA0526;Gemeinschafts-KW Kiel;0;21
+p052;DE;n251;DE_NRW;dena74;DE_WE;ccgt;gas;800;0.57;0.33;0;BNA0548;Knapsack Gas;0;74
+p053;DE;n076;DE_NI;dena71;DE_NW;gas;gas;412;0.4;0.46;0;BNA0604;Emsland;0;71
+p054;DE;n076;DE_NI;dena71;DE_NW;gas;gas;412;0.41;0.46;0;BNA0605;Emsland;0;71
+p055;DE;n076;DE_NI;dena71;DE_NW;ccgt;gas;876;0.59;0.32;0;BNA0606;Emsland;0;71
+p056;DE;n076;DE_NI;dena71;DE_NW;nuc;nuc;1329;0.33;0;0;BNA0607;Emsland;0;71
+p057;DE;n324;DE_RP;dena75;DE_SW;gas;gas;568;0.45;0.42;0;BNA0614b;Kraftwerk Mitte;0;75
+p058;DE;n143;DE_NRW;dena72;DE_WE;coal;coal;324;0.35;1.04;3.3;BNA0619;KW Lünen;0;72
+p059;DE;n327;DE_RP;dena75;DE_SW;coal;coal;203;0.35;1.03;4.92;BNA0643;GKM ;0;75
+p060;DE;n328;DE_RP;dena75;DE_SW;coal;coal;255;0.44;0.82;3.93;BNA0644;GKM ;0;75
+p061;DE;n328;DE_RP;dena75;DE_SW;coal;coal;425;0.38;0.95;4.53;BNA0645;GKM ;0;75
+p062;DE;n327;DE_RP;dena75;DE_SW;coal;coal;435;0.41;0.88;4.22;BNA0646;GKM ;0;75
+p063;DE;n363;DE_BW;dena42;DE_SW;oil;oil;278;0.36;0.75;0;BNA0649;Dampfkraftwerk Marbach am Neckar;0;42
+p064;DE;n357;DE_BW;dena41;DE_SW;nuc;nuc;1310;0.33;0;0;BNA0686;Gemeinschaftskernkraftwerk Neckarwestheim II;0;41
+p065;DE;n207;DE_NRW;dena72;DE_WE;lig;lig;277;0.33;1.2;0;BNA0696;Neurath;0;72
+p066;DE;n227;DE_NRW;dena72;DE_WE;lig;lig;288;0.33;1.2;0;BNA0697;Neurath;0;72
+p067;DE;n227;DE_NRW;dena72;DE_WE;lig;lig;292;0.34;1.19;0;BNA0698;Neurath;0;72
+p068;DE;n227;DE_NRW;dena72;DE_WE;lig;lig;607;0.34;1.18;0;BNA0699;Neurath;0;72
+p069;DE;n235;DE_NRW;dena74;DE_WE;lig;lig;604;0.34;1.17;0;BNA0700;Neurath;0;74
+p070;DE;n242;DE_NRW;dena74;DE_WE;lig;lig;297;0.32;1.24;0;BNA0705;Niederaußem;0;74
+p071;DE;n227;DE_NRW;dena72;DE_WE;lig;lig;299;0.33;1.21;0;BNA0706;Niederaußem;0;72
+p072;DE;n235;DE_NRW;dena74;DE_WE;lig;lig;648;0.34;1.19;0;BNA0707;Niederaußem;0;74
+p073;DE;n235;DE_NRW;dena74;DE_WE;lig;lig;653;0.34;1.19;0;BNA0708;Niederaußem;0;74
+p074;DE;n235;DE_NRW;dena74;DE_WE;lig;lig;944;0.41;0.99;0;BNA0709;Niederaußem;0;74
+p075;DE;n242;DE_NRW;dena74;DE_WE;lig;lig;294;0.32;1.27;0;BNA0712;Niederaußem;0;74
+p076;DE;n227;DE_NRW;dena72;DE_WE;lig;lig;295;0.33;1.22;0;BNA0713;Niederaußem;0;72
+p077;DE;n120;DE_BB;dena84;DE_EA;lig;lig;465;0.35;1.13;0;BNA0785;KW Jänschwalde;0;84
+p078;DE;n120;DE_BB;dena84;DE_EA;lig;lig;465;0.36;1.12;0;BNA0786;KW Jänschwalde;0;84
+p079;DE;n120;DE_BB;dena84;DE_EA;lig;lig;465;0.36;1.11;0;BNA0787;KW Jänschwalde;0;84
+p080;DE;n120;DE_BB;dena84;DE_EA;lig;lig;465;0.36;1.1;0;BNA0788;KW Jänschwalde;0;84
+p081;DE;n120;DE_BB;dena84;DE_EA;lig;lig;465;0.37;1.09;0;BNA0789;KW Jänschwalde;0;84
+p082;DE;n120;DE_BB;dena84;DE_EA;lig;lig;465;0.37;1.07;0;BNA0790;KW Jänschwalde;0;84
+p083;DE;n080;DE_NRW;dena23;DE_NW;coal;coal;875;0.39;0.92;1.46;BNA0793;Heyden;0;23
+p084;DE;n350;DE_BW;dena41;DE_SW;nuc;nuc;1402;0.33;0;0;BNA0802;Kernkraftwerk Philippsburg 2;0;41
+p085;DE;n103;DE_NRW;dena23;DE_NW;coal;coal;303;0.35;1.03;1.64;BNA0813;Kraftwerk Veltheim;0;23
+p086;DE;n333;DE_SL;dena75;DE_SW;coal;coal;656;0.37;0.99;4.72;BNA0820;Weiher;0;75
+p087;DE;n012;DE_MV;dena81;DE_NE;coal;coal;508;0.41;0.88;1.4;BNA0849;KNG Kraftwerk Rostock;0;81
+p088;DE;n188;DE_ST;dena83;DE_EA;lig;lig;450;0.39;1.03;0;BNA0878;Schkopau;0;83
+p089;DE;n188;DE_ST;dena83;DE_EA;lig;lig;450;0.39;1.03;0;BNA0879;Schkopau;0;83
+p090;DE;n156;DE_SN;dena84;DE_EA;lig;lig;750;0.39;1.02;0;BNA0914;Schwarze Pumpe;0;84
+p091;DE;n156;DE_SN;dena84;DE_EA;lig;lig;750;0.4;1.01;0;BNA0915;Schwarze Pumpe;0;84
+p092;DE;n028;DE_NI;dena22;DE_NW;gas;gas;220;0.31;0.61;0;BNA0918;Dow Stade;0;22
+p093;DE;n404;DE_BY;dena26;DE_SE;coal;coal;333;0.4;0.89;7.13;BNA0969;Nord 2;0;26
+p094;DE;n150;DE_NRW;dena72;DE_WE;coal;coal;318;0.35;1.02;3.26;BNA0989;KW West;0;72
+p095;DE;n150;DE_NRW;dena72;DE_WE;coal;coal;322;0.35;1.02;3.26;BNA0990;KW West;0;72
+p096;DE;n150;DE_NRW;dena72;DE_WE;coal;coal;695;0.38;0.95;3.02;BNA0991;KW Voerde;0;72
+p097;DE;n150;DE_NRW;dena72;DE_WE;coal;coal;695;0.39;0.93;2.96;BNA0992;KW Voerde;0;72
+p098;DE;n373;DE_BY;dena26;DE_SE;ccgt;gas;846;0.59;0.32;0;BNA0994;Gemeinschaftskraftwerk Irsching ;0;26
+p099;DE;n373;DE_BY;dena26;DE_SE;ccgt;gas;545;0.59;0.32;0;BNA0995;"Ulrich Hartmann;;
+p100;DE;n249;DE_NRW;dena74;DE_WE;lig;lig;304;0.32;1.25;0;BNA1026;Weisweiler;0;74
+p101;DE;n249;DE_NRW;dena74;DE_WE;lig;lig;590;0.34;1.19;0;BNA1027;Weisweiler;0;74
+p102;DE;n249;DE_NRW;dena74;DE_WE;lig;lig;592;0.34;1.18;0;BNA1028;Weisweiler;0;74
+p103;DE;n205;DE_NRW;dena73;DE_WE;oil;oil;218;0.32;0.84;0;BNA1036;Kraftwerk Werdohl-Elverlingsen;0;73
+p104;DE;n205;DE_NRW;dena73;DE_WE;coal;coal;310;0.38;0.95;3.02;BNA1037;Kraftwerk Werdohl-Elverlingsen;0;73
+p105;DE;n133;DE_NRW;dena73;DE_WE;gas;gas;412;0.4;0.46;0;BNA1045;Gersteinwerk;0;73
+p106;DE;n133;DE_NRW;dena73;DE_WE;coal;coal;608;0.39;0.94;2.98;BNA1046a;Gersteinwerk;0;73
+p107;DE;n033;DE_NI;dena22;DE_NW;coal;coal;757;0.37;0.99;0.79;BNA1061;Wilhelmshaven;0;22
+p108;DE;n393;DE_BY;dena26;DE_SE;coal;coal;468;0.39;0.92;7.35;BNA1093;Zolling;0;26
+p109;DE;n235;DE_NRW;dena74;DE_WE;lig;lig;1050;0.43;0.93;0;BNA1401a;BoA 2;0;74
+p110;DE;n235;DE_NRW;dena74;DE_WE;lig;lig;1050;0.43;0.93;0;BNA1401b;BoA 3;0;74
+p111;DE;n027;DE_NI;dena22;DE_NW;gas;gas;36;0.41;0.46;0;BNA1437;KWK AOS GmbH;0;22
+p112;DE;n072;DE_BE;dena81;DE_NE;gas;gas;44;0.35;0.53;0;BNA0005;Ahrensfelde;0;81
+p113;DE;n072;DE_BE;dena81;DE_NE;gas;gas;44;0.35;0.53;0;BNA0006;Ahrensfelde;0;81
+p114;DE;n072;DE_BE;dena81;DE_NE;gas;gas;44;0.35;0.53;0;BNA0007;Ahrensfelde;0;81
+p115;DE;n072;DE_BE;dena81;DE_NE;gas;gas;44;0.35;0.53;0;BNA0008;Ahrensfelde;0;81
+p116;DE;n111;DE_NI;dena23;DE_NW;gas;gas;23;0.25;0.75;0;BNA0012b;Werkskraftwerk Sappi Alfeld;0;23
+p117;DE;n377;DE_BW;dena42;DE_SW;gas;gas;75;0.37;0.51;0;BNA0015;Heizkraftwerk Altbach/Deizisau;0;42
+p118;DE;n377;DE_BW;dena42;DE_SW;gas;gas;58;0.4;0.47;0;BNA0016;Heizkraftwerk Altbach/Deizisau;0;42
+p119;DE;n377;DE_BW;dena42;DE_SW;gas;gas;66;0.31;0.61;0;BNA0017;Heizkraftwerk Altbach/Deizisau;0;42
+p120;DE;n377;DE_BW;dena42;DE_SW;gas;gas;94;0.32;0.6;0;BNA0018;Heizkraftwerk Altbach/Deizisau;0;42
+p121;DE;n010;DE_MV;dena81;DE_NE;gas;gas;18;0.36;0.52;0;BNA0025;Kesselhaus Zuckerfabrik;0;81
+p122;DE;n394;DE_BY;dena76;DE_SE;gas;gas;33;0.39;0.48;0;BNA0033;Gasturbine;0;76
+p123;DE;n117;DE_ST;dena81;DE_NE;gas;gas;19;0.36;0.52;0;BNA0051;KWK-Anlage Barby;0;81
+p124;DE;n077;DE_BE;dena81;DE_NE;gas;gas;9;0.41;0.46;0;BNA0070;HKW Adlershof;0;81
+p125;DE;n077;DE_BE;dena81;DE_NE;gas;gas;6;0.37;0.51;0;BNA0071;HKW Adlershof;0;81
+p126;DE;n077;DE_BE;dena81;DE_NE;gas;gas;8;0.39;0.49;0;BNA0072;HKW Adlershof;0;81
+p127;DE;n074;DE_BE;dena81;DE_NE;ccgt;gas;444;0.52;0.36;0;BNA0073;Mitte;0;81
+p128;DE;n075;DE_BE;dena81;DE_NE;gas;gas;245;0.32;0.6;0;BNA0074;Charlottenburg;0;81
+p129;DE;n075;DE_BE;dena81;DE_NE;gas;gas;167;0.35;0.53;0;BNA0075;Lichterfelde;0;81
+p130;DE;n075;DE_BE;dena81;DE_NE;gas;gas;167;0.36;0.53;0;BNA0076;Lichterfelde;0;81
+p131;DE;n077;DE_BE;dena81;DE_NE;lig;lig;164;0.35;1.13;0;BNA0081;Klingenberg;0;81
+p132;DE;n073;DE_BE;dena81;DE_NE;coal;coal;124;0.35;1.04;1.65;BNA0082;Reuter;0;81
+p133;DE;n075;DE_BE;dena81;DE_NE;oil;oil;293;0.32;0.83;0;BNA0083;Wilmersdorf;0;81
+p134;DE;n073;DE_BE;dena81;DE_NE;was;was;36;1;0;0;BNA0084;Reuter;0;81
+p135;DE;n075;DE_BE;dena81;DE_NE;coal;coal;89;0.4;0.9;1.43;BNA0085a;Moabit;0;81
+p136;DE;n075;DE_BE;dena81;DE_NE;oil;oil;54;0.31;0.87;0;BNA0085b;Moabit;0;81
+p137;DE;n117;DE_ST;dena81;DE_NE;was;was;35;1;0;0;BNA0088a;Dampfturbinenanlage der EBS-Kessel;0;81
+p138;DE;n117;DE_ST;dena81;DE_NE;gas;gas;77;0.38;0.5;0;BNA0088b;Industriekraftwerk Bernburg (IKB);0;81
+p139;DE;n113;DE_NRW;dena73;DE_WE;was;was;34;1;0;0;BNA0097;MVA Bielefeld;0;73
+p140;DE;n108;DE_NRW;dena73;DE_WE;gas;gas;27;0.32;0.58;0;BNA0098;HKW Schildescher Straße;0;73
+p141;DE;n108;DE_NRW;dena73;DE_WE;ccgt;gas;37;0.56;0.33;0;BNA0100;GuD Kraftwerk Hillegossen;0;73
+p142;DE;n108;DE_NRW;dena73;DE_WE;gas;gas;61;0.35;0.54;0;BNA0101;HKW Schildescher Straße;0;73
+p143;DE;n126;DE_ST;dena83;DE_EA;ccgt;gas;106;0.54;0.35;0;BNA0105;GuD Bitterfeld;0;83
+p144;DE;n173;DE_NRW;dena72;DE_WE;gas;gas;24;0.39;0.48;0;BNA0110;Bochum;0;72
+p145;DE;n174;DE_NRW;dena72;DE_WE;gas;gas;35;0.36;0.52;0;BNA0111;HKW Hiltrop;0;72
+p146;DE;n258;DE_NRW;dena74;DE_WE;gas;gas;14;0.38;0.5;0;BNA0117;Heizkraftwerk Karlstraße;0;74
+p147;DE;n121;DE_BB;dena84;DE_EA;gas;gas;42;0.37;0.51;0;BNA0129;HKW;0;84
+p148;DE;n079;DE_BB;dena81;DE_NE;ccgt;gas;160;0.51;0.37;0;BNA0130;Kirchmöser;0;81
+p149;DE;n087;DE_NI;dena23;DE_NW;gas;gas;23;0.31;0.62;0;BNA0135;HKW-Mitte;0;23
+p150;DE;n087;DE_NI;dena23;DE_NW;ccgt;gas;74;0.59;0.32;0;BNA0136;HKW-Mitte;0;23
+p151;DE;n087;DE_NI;dena23;DE_NW;gas;gas;29;0.29;0.65;0;BNA0137;HKW-Nord;0;23
+p152;DE;n087;DE_NI;dena23;DE_NW;coal;coal;43;0.39;0.94;1.49;BNA0138;HKW-Mitte;0;23
+p153;DE;n055;DE_NI;dena22;DE_NW;was;was;29;1;0;0;BNA0139;KW Hafen;0;22
+p154;DE;n055;DE_NI;dena22;DE_NW;oil;oil;93;0.31;0.85;0;BNA0141;KW Mittelsbüren;0;22
+p155;DE;n055;DE_NI;dena22;DE_NW;oth;oil;179;0.35;0.74;0;BNA0142;KW Mittelsbüren;0;22
+p156;DE;n053;DE_HB;dena22;DE_NW;coal;coal;119;0.4;0.91;0.72;BNA0144;KW Hastedt;0;22
+p157;DE;n055;DE_NI;dena22;DE_NW;coal;coal;127;0.35;1.04;0.83;BNA0145;KW Hafen;0;22
+p158;DE;n055;DE_NI;dena22;DE_NW;coal;coal;278;0.37;0.97;0.77;BNA0146;KW Hafen;0;22
+p159;DE;n182;DE_NRW;dena73;DE_WE;gas;gas;16;0.37;0.51;0;BNA0156b;Egger Kraftwerk Briilon;0;73
+p160;DE;n406;DE_BY;dena26;DE_SE;gas;gas;206;0.39;0.49;0;BNA0172;Dampfkraftwerk BGH - O1;0;26
+p161;DE;n406;DE_BY;dena26;DE_SE;gas;gas;57;0.39;0.49;0;BNA0174;Industriepark Werk Gendorf;0;26
+p162;DE;n250;DE_SN;dena84;DE_EA;lig;lig;57;0.37;1.08;0;BNA0177;HKW Chemnitz  Nord II;0;84
+p163;DE;n250;DE_SN;dena84;DE_EA;gas;gas;66;0.34;0.55;0;BNA0178;HKW Chemnitz  Nord II;0;84
+p164;DE;n250;DE_SN;dena84;DE_EA;lig;lig;91;0.38;1.06;0;BNA0179;HKW Chemnitz  Nord II;0;84
+p165;DE;n120;DE_BB;dena84;DE_EA;lig;lig;74;0.4;1.01;0;BNA0183;HKW Cottbus;0;84
+p166;DE;n142;DE_NRW;dena72;DE_WE;coal;coal;95;0.34;1.08;3.43;BNA0187;Datteln;0;72
+p167;DE;n142;DE_NRW;dena72;DE_WE;coal;coal;95;0.34;1.08;3.43;BNA0188;Datteln;0;72
+p168;DE;n142;DE_NRW;dena72;DE_WE;coal;coal;113;0.35;1.04;3.3;BNA0189;Datteln;0;72
+p169;DE;n126;DE_ST;dena83;DE_EA;lig;lig;49;0.39;1.03;0;BNA0194;Kraftwerk Dessau;0;83
+p170;DE;n213;DE_SN;dena84;DE_EA;lig;lig;67;0.28;1.43;0;BNA0196;Deuben;0;84
+p171;DE;n223;DE_NRW;dena72;DE_WE;ccgt;gas;586;0.54;0.35;0;BNA0199;Dormagen;0;72
+p172;DE;n159;DE_NRW;dena72;DE_WE;gas;gas;14;0.39;0.48;0;BNA0202;Dortmund;0;72
+p173;DE;n240;DE_SN;dena84;DE_EA;ccgt;gas;250;0.52;0.36;0;BNA0207;HKW Dresden-Nossener Brücke;0;84
+p174;DE;n175;DE_NRW;dena72;DE_WE;coal;coal;95;0.39;0.93;2.96;BNA0211;HKW I;0;72
+p175;DE;n191;DE_NRW;dena72;DE_WE;gas;gas;46;0.39;0.49;0;BNA0213;HKW III/A;0;72
+p176;DE;n191;DE_NRW;dena72;DE_WE;gas;gas;271;0.39;0.48;0;BNA0214;HKW III/B;0;72
+p177;DE;n175;DE_NRW;dena72;DE_WE;oth;oil;71;0.35;0.74;0;BNA0217;Duisburg Ruhrort 2;0;72
+p178;DE;n175;DE_NRW;dena72;DE_WE;oth;oil;107;0.35;0.74;0;BNA0218;Duisburg Ruhrort 3;0;72
+p179;DE;n171;DE_NRW;dena72;DE_WE;oth;oil;196;0.35;0.74;0;BNA0219;Duisburg Ruhrort 4;0;72
+p180;DE;n222;DE_NRW;dena72;DE_WE;gas;gas;116;0.54;0.35;0;BNA0220;GuD;0;72
+p181;DE;n222;DE_NRW;dena72;DE_WE;gas;gas;75;0.41;0.46;0;BNA0221a;GT;0;72
+p182;DE;n222;DE_NRW;dena72;DE_WE;gas;gas;77;0.41;0.46;0;BNA0221b;GT;0;72
+p183;DE;n222;DE_NRW;dena72;DE_WE;gas;gas;340;0.41;0.46;0;BNA0221c;Gasblock;0;72
+p184;DE;n212;DE_NRW;dena72;DE_WE;oil;oil;91;0.32;0.82;0;BNA0222;GT;0;72
+p185;DE;n212;DE_NRW;dena72;DE_WE;was;was;54;1;0;0;BNA0223b;DT;0;72
+p186;DE;n396;DE_BW;dena42;DE_SW;gas;gas;5;0.32;0.59;0;BNA0232c;Werkskraftwerk Sappi Ehingen;0;42
+p187;DE;n195;DE_SN;dena84;DE_EA;gas;gas;54;0.36;0.52;0;BNA0233;Kombikraftwerk;0;84
+p188;DE;n105;DE_BB;dena84;DE_EA;oth;oil;28;0.35;0.74;0;BNA0237;EBS-Heizkraftwerk;0;84
+p189;DE;n105;DE_BB;dena84;DE_EA;oth;oil;113;0.35;0.74;0;BNA0238;IKW;0;84
+p190;DE;n299;DE_BY;dena25;DE_SE;gas;gas;63;0.4;0.47;0;BNA0243;HKW Eltmann;0;25
+p191;DE;n348;DE_SL;dena75;DE_SW;coal;coal;283;0.35;1.02;4.88;BNA0252;Kraftwerk Ensdorf;0;75
+p192;DE;n238;DE_TH;dena83;DE_EA;gas;gas;13;0.37;0.51;0;BNA0255;HKW Iderhoffstraße;0;83
+p193;DE;n238;DE_TH;dena83;DE_EA;gas;gas;91;0.38;0.5;0;BNA0256;HKW Erfurt-Ost;0;83
+p194;DE;n322;DE_BY;dena25;DE_SE;gas;gas;25;0.39;0.48;0;BNA0261a;HKW Erlangen;0;25
+p195;DE;n322;DE_BY;dena25;DE_SE;coal;coal;17;0.38;0.96;6.88;BNA0261b;HKW Erlangen;0;25
+p196;DE;n003;DE_SH;dena21;DE_NW;coal;coal;27;0.41;0.89;0.71;BNA0270;Heizkraftwerk FL;0;21
+p197;DE;n003;DE_SH;dena21;DE_NW;coal;coal;29;0.4;0.91;0.73;BNA0271;Heizkraftwerk FL;0;21
+p198;DE;n003;DE_SH;dena21;DE_NW;coal;coal;33;0.39;0.93;0.74;BNA0272;Heizkraftwerk FL;0;21
+p199;DE;n003;DE_SH;dena21;DE_NW;coal;coal;35;0.38;0.95;0.76;BNA0273;Heizkraftwerk FL;0;21
+p200;DE;n003;DE_SH;dena21;DE_NW;coal;coal;23;0.37;0.97;0.78;BNA0274;Heizkraftwerk FL;0;21
+p201;DE;n105;DE_BB;dena84;DE_EA;lig;lig;45;0.39;1.02;0;BNA0284;Heizkraftwerk FFO;0;84
+p202;DE;n290;DE_HE;dena24;DE_WE;gas;gas;81;0.39;0.48;0;BNA0285;HKW Niederrad;0;24
+p203;DE;n290;DE_HE;dena24;DE_WE;gas;gas;115;0.36;0.52;0;BNA0286;HKW West;0;24
+p204;DE;n290;DE_HE;dena24;DE_WE;was;was;26;1;0;0;BNA0287a;MHKW Frankfurt;0;24
+p205;DE;n290;DE_HE;dena24;DE_WE;was;was;47;1;0;0;BNA0287b;MHKW Frankfurt;0;24
+p206;DE;n290;DE_HE;dena24;DE_WE;gas;gas;65;0.31;0.61;0;BNA0288;HKW Niederrad;0;24
+p207;DE;n290;DE_HE;dena24;DE_WE;oth;oil;23;0.35;0.74;0;BNA0289a;HKW West;0;24
+p208;DE;n290;DE_HE;dena24;DE_WE;coal;coal;62;0.4;0.91;3.61;BNA0290;HKW West;0;24
+p209;DE;n290;DE_HE;dena24;DE_WE;coal;coal;62;0.4;0.91;3.61;BNA0289b;HKW West;0;24
+p210;DE;n251;DE_NRW;dena74;DE_WE;lig;lig;118;0.3;1.33;0;BNA0292;Frechen/Wachtberg;0;74
+p211;DE;n407;DE_BW;dena42;DE_SW;ccgt;gas;60;0.53;0.35;0;BNA0293;GuD Anlage WVK;0;42
+p212;DE;n276;DE_HE;dena24;DE_WE;oil;oil;26;0.41;0.65;0;BNA0318;ÜWAG Kraftwerk Fulda;0;24
+p213;DE;n147;DE_NRW;dena72;DE_WE;coal;coal;70;0.39;0.93;2.96;BNA0336;FWK Buer;0;72
+p214;DE;n262;DE_TH;dena83;DE_EA;gas;gas;86;0.37;0.51;0;BNA0343;Heizkraftwerk Gera-Nord;0;83
+p215;DE;n165;DE_NI;dena24;DE_WE;gas;gas;22;0.38;0.5;0;BNA0354;HKW Göttingen;0;24
+p216;DE;n010;DE_MV;dena81;DE_NE;gas;gas;16;0.37;0.51;0;BNA0360;"HKW ""Helmshäger Berg""";0;81
+p217;DE;n430;DE_BW;dena42;DE_SW;gas;gas;46;0.39;0.48;0;BNA0361;Kraftwerk Grenzach-Wyhlen;0;42
+p218;DE;n220;DE_SN;dena84;DE_EA;oil;oil;18;0.37;0.72;0;BNA0369;Spitzenlastkraftwerk Sermuth;0;84
+p219;DE;n190;DE_ST;dena83;DE_EA;oil;oil;127;0.36;0.72;0;BNA0373;Spitzenlastkraftwerk Großkayna;0;83
+p220;DE;n121;DE_BB;dena84;DE_EA;was;was;23;1;0;0;BNA0380;EEW Großräschen;0;84
+p221;DE;n116;DE_NRW;dena73;DE_WE;gas;gas;25;0.36;0.52;0;BNA0386;Energiezentrum Mohn Media;0;73
+p222;DE;n189;DE_NRW;dena72;DE_WE;gas;gas;267;0.33;0.57;0;BNA0389;Heizkraftwerk Hagen-Kabel;0;72
+p223;DE;n190;DE_ST;dena83;DE_EA;gas;gas;113;0.39;0.48;0;BNA0392a;HKW Halle Trotha;0;83
+p224;DE;n171;DE_NRW;dena72;DE_WE;oth;oil;71;0.35;0.74;0;BNA0395;Duisburg Hamborn 3;0;72
+p225;DE;n171;DE_NRW;dena72;DE_WE;oth;oil;119;0.35;0.74;0;BNA0396;Duisburg Hamborn 4;0;72
+p226;DE;n171;DE_NRW;dena72;DE_WE;oth;oil;268;0.35;0.74;0;BNA0397;Duisburg Hamborn 5;0;72
+p227;DE;n037;DE_HH;dena82;DE_NW;was;was;24;1;0;0;BNA0398;MVR Müllverwertung Rugenberger Damm GmbH & Co. KG;0;82
+p228;DE;n034;DE_HH;dena82;DE_NW;ccgt;gas;127;0.58;0.32;0;BNA0400;GuD Tiefstack;0;82
+p229;DE;n037;DE_HH;dena82;DE_NW;gas;gas;19;0.36;0.52;0;BNA0401;Heizkraftwerk;0;82
+p230;DE;n034;DE_HH;dena82;DE_NW;coal;coal;194;0.41;0.88;0.7;BNA0402;Tiefstack;0;82
+p231;DE;n025;DE_SH;dena82;DE_NW;coal;coal;123;0.33;1.09;0.87;BNA0403;Wedel;0;82
+p232;DE;n025;DE_SH;dena82;DE_NW;coal;coal;137;0.33;1.1;0.88;BNA0404;Wedel;0;82
+p233;DE;n110;DE_NI;dena23;DE_NW;was;was;15;1;0;0;BNA0407;Enertec Hameln;0;23
+p234;DE;n134;DE_NRW;dena73;DE_WE;coal;coal;284;0.35;1.04;3.3;BNA0413;Westfalen;0;73
+p235;DE;n078;DE_NI;dena23;DE_NW;was;was;23;1;0;0;BNA0417;E.ON Energy from Waste Hannover GmbH;0;23
+p236;DE;n078;DE_NI;dena23;DE_NW;ccgt;gas;250;0.53;0.35;0;BNA0418;GKL;0;23
+p237;DE;n078;DE_NI;dena23;DE_NW;gas;gas;118;0.32;0.6;0;BNA0419;KWH;0;23
+p238;DE;n084;DE_NI;dena23;DE_NW;coal;coal;130;0.4;0.91;1.44;BNA0420;GKH;0;23
+p239;DE;n084;DE_NI;dena23;DE_NW;coal;coal;130;0.4;0.91;1.44;BNA0421;GKH;0;23
+p240;DE;n418;DE_BY;dena26;DE_SE;oil;oil;25;0.33;0.79;0;BNA0427;Kraftwerk Hausham;0;26
+p241;DE;n418;DE_BY;dena26;DE_SE;oil;oil;25;0.33;0.79;0;BNA0428;Kraftwerk Hausham;0;26
+p242;DE;n418;DE_BY;dena26;DE_SE;oil;oil;25;0.33;0.79;0;BNA0429;Kraftwerk Hausham;0;26
+p243;DE;n418;DE_BY;dena26;DE_SE;oil;oil;25;0.33;0.79;0;BNA0430;Kraftwerk Hausham;0;26
+p244;DE;n353;DE_BW;dena41;DE_SW;coal;coal;110;0.34;1.07;5.1;BNA0432;Heizkraftwerk Heilbronn;0;41
+p245;DE;n353;DE_BW;dena41;DE_SW;coal;coal;110;0.34;1.06;5.06;BNA0433;Heizkraftwerk Heilbronn;0;41
+p246;DE;n101;DE_NI;dena23;DE_NW;was;was;38;1;0;0;BNA0438;TRV Buschhaus;0;23
+p247;DE;n176;DE_NRW;dena72;DE_WE;gas;gas;484;0.4;0.47;0;BNA0442;Cuno Heizkraftwerk Herdecke;0;72
+p248;DE;n245;DE_HE;dena24;DE_WE;gas;gas;127;0.29;0.64;0;BNA0444;Wintershall;0;24
+p249;DE;n158;DE_NRW;dena72;DE_WE;coal;coal;132;0.32;1.13;3.61;BNA0448;Shamrock;0;72
+p250;DE;n251;DE_NRW;dena74;DE_WE;lig;lig;66;0.38;1.05;0;BNA0489;Goldenberg;0;74
+p251;DE;n251;DE_NRW;dena74;DE_WE;lig;lig;85;0.38;1.04;0;BNA0490;Goldenberg;0;74
+p252;DE;n251;DE_NRW;dena74;DE_WE;lig;lig;52;0.39;1.03;0;BNA0491;Ville/Berrenrath;0;74
+p253;DE;n292;DE_HE;dena75;DE_SW;gas;gas;112;0.41;0.46;0;BNA0497;ADS-Anlage;0;75
+p254;DE;n292;DE_HE;dena75;DE_SW;coal;coal;66;0.4;0.91;4.33;BNA0498;Heizkraftwerk;0;75
+p255;DE;n292;DE_HE;dena75;DE_SW;gas;gas;100;0.39;0.49;0;BNA0499;Heizkraftwerk;0;75
+p256;DE;n244;DE_TH;dena83;DE_EA;gas;gas;211;0.37;0.51;0;BNA0504;HKW Jena;0;83
+p257;DE;n326;DE_RP;dena75;DE_SW;gas;gas;13;0.35;0.54;0;BNA0510a;HKW Karcherstr.;0;75
+p258;DE;n326;DE_RP;dena75;DE_SW;coal;coal;13;0.42;0.87;4.15;BNA0510b;HKW Karcherstr.;0;75
+p259;DE;n359;DE_BW;dena41;DE_SW;gas;gas;46;0.34;0.56;0;BNA0515;Heizkraftwerk West;0;41
+p260;DE;n361;DE_BW;dena41;DE_SW;oil;oil;48;0.37;0.72;0;BNA0516;MiRO;0;41
+p261;DE;n361;DE_BW;dena41;DE_SW;oil;oil;27;0.37;0.72;0;BNA0517;MiRO;0;41
+p262;DE;n166;DE_NRW;dena72;DE_WE;was;was;38;1;0;0;BNA0519;Karnap;0;72
+p263;DE;n208;DE_HE;dena24;DE_WE;gas;gas;61;0.35;0.54;0;BNA0521;Kombi-HKW;0;24
+p264;DE;n208;DE_HE;dena24;DE_WE;lig;lig;34;0.37;1.08;0;BNA0523;FKK;0;24
+p265;DE;n005;DE_SH;dena21;DE_NW;gas;gas;23;0.3;0.62;0;BNA0527;HKW Humboldtstr.;0;21
+p266;DE;n108;DE_NRW;dena73;DE_WE;gas;gas;234;0.33;0.57;0;BNA0531;KW Kirchlengern;0;73
+p267;DE;n231;DE_NRW;dena74;DE_WE;lig;lig;75;0.42;0.94;0;BNA0543;HKW Merkenich;0;74
+p268;DE;n255;DE_NRW;dena74;DE_WE;gas;gas;41;0.36;0.52;0;BNA0544;HKW Südstadt;0;74
+p269;DE;n237;DE_NRW;dena74;DE_WE;ccgt;gas;413;0.56;0.33;0;BNA0545;HKW Niehl 2;0;74
+p270;DE;n231;DE_NRW;dena74;DE_WE;gas;gas;125;0.39;0.48;0;BNA0546;HKW Merkenich;0;74
+p271;DE;n255;DE_NRW;dena74;DE_WE;oil;oil;85;0.39;0.68;0;BNA0547;Raffineriekraftwerk Köln Godorf;0;74
+p272;DE;n204;DE_NRW;dena72;DE_WE;gas;gas;30;0.39;0.48;0;BNA0556a;KWK-Anlage Krefeld DT;0;72
+p273;DE;n202;DE_NRW;dena72;DE_WE;gas;gas;16;0.39;0.48;0;BNA0556b;KWK-Anlage Krefeld VM;0;72
+p274;DE;n193;DE_NRW;dena72;DE_WE;coal;coal;26;0.32;1.13;3.61;BNA0557a;Kraftwerk L 57;0;72
+p275;DE;n193;DE_NRW;dena72;DE_WE;coal;coal;110;0.35;1.02;3.26;BNA0557b;Kraftwerk N 230;0;72
+p276;DE;n195;DE_SN;dena84;DE_EA;gas;gas;194;0.37;0.51;0;BNA0588;Heizkraftwerk Leipzig-Nord;0;84
+p277;DE;n190;DE_ST;dena83;DE_EA;was;was;16;1;0;0;BNA0590;TREA Leuna;0;83
+p278;DE;n190;DE_ST;dena83;DE_EA;was;was;16;1;0;0;BNA0591;TREA Leuna;0;83
+p279;DE;n190;DE_ST;dena83;DE_EA;gas;gas;60;0.44;0.43;0;BNA0592;GuD Leuna;0;83
+p280;DE;n190;DE_ST;dena83;DE_EA;gas;gas;41;0.36;0.52;0;BNA0593;ILK-GuD;0;83
+p281;DE;n190;DE_ST;dena83;DE_EA;gas;gas;41;0.36;0.52;0;BNA0594;ILK-GuD;0;83
+p282;DE;n190;DE_ST;dena83;DE_EA;gas;gas;43;0.36;0.52;0;BNA0595;ILK-GuD;0;83
+p283;DE;n190;DE_ST;dena83;DE_EA;oil;oil;98;0.37;0.71;0;BNA0596;Raffineriekraftwerk;0;83
+p284;DE;n190;DE_ST;dena83;DE_EA;oth;oil;10;0.35;0.74;0;BNA0597;ILK-GuD;0;83
+p285;DE;n117;DE_ST;dena81;DE_NE;oth;oil;17;0.35;0.74;0;BNA0598a;ILK-EKT;0;81
+p286;DE;n190;DE_ST;dena83;DE_EA;oth;oil;24;0.35;0.74;0;BNA0598b;ILK-GuD;0;83
+p287;DE;n231;DE_NRW;dena74;DE_WE;was;was;12;1;0;0;BNA0599;AVEA MHKW Leverkusen GmbH & Co. KG;0;74
+p288;DE;n231;DE_NRW;dena74;DE_WE;gas;gas;34;0.36;0.51;0;BNA0600a;X-Kraftwerk;0;74
+p289;DE;n193;DE_NRW;dena72;DE_WE;coal;coal;103;0.33;1.09;3.48;BNA0600b;G-Kraftwerk;0;72
+p290;DE;n076;DE_NI;dena71;DE_NW;gas;gas;130;0.4;0.47;0;BNA0602;Emsland;0;71
+p291;DE;n076;DE_NI;dena71;DE_NW;gas;gas;130;0.4;0.47;0;BNA0603;Emsland;0;71
+p292;DE;n324;DE_RP;dena75;DE_SW;gas;gas;452;0.44;0.43;0;BNA0615;Kraftwerk Süd;0;75
+p293;DE;n327;DE_RP;dena75;DE_SW;oth;oil;67;0.35;0.74;0;BNA0616b;Kraftwerk Nord;0;75
+p294;DE;n143;DE_NRW;dena72;DE_WE;coal;coal;149;0.33;1.09;3.48;BNA0618;KW Lünen;0;72
+p295;DE;n095;DE_ST;dena81;DE_NE;was;was;29;1;0;0;BNA0622;MHKW Rothensee;0;81
+p296;DE;n095;DE_ST;dena81;DE_NE;was;was;29;1;0;0;BNA0623;MHKW Rothensee;0;81
+p297;DE;n297;DE_RP;dena75;DE_SW;ccgt;gas;398;0.54;0.34;0;BNA0626;Kraftwerk Mainz;0;75
+p298;DE;n324;DE_RP;dena75;DE_SW;was;was;9;1;0;0;BNA0640;HKW Mannheim;0;75
+p299;DE;n324;DE_RP;dena75;DE_SW;was;was;22;1;0;0;BNA0641a;HKW Mannheim;0;75
+p300;DE;n324;DE_RP;dena75;DE_SW;was;was;8;1;0;0;BNA0641b;HKW Mannheim;0;75
+p301;DE;n324;DE_RP;dena75;DE_SW;was;was;6;1;0;0;BNA0641c;HKW Mannheim;0;75
+p302;DE;n363;DE_BW;dena42;DE_SW;oil;oil;82;0.4;0.66;0;BNA0647;Dampfkraftwerk Marbach am Neckar;0;42
+p303;DE;n363;DE_BW;dena42;DE_SW;oil;oil;90;0.41;0.66;0;BNA0648;Dampfkraftwerk Marbach am Neckar;0;42
+p304;DE;n129;DE_NRW;dena72;DE_WE;gas;gas;71;0.31;0.61;0;BNA0658;Kraftwerk III;0;72
+p305;DE;n129;DE_NRW;dena72;DE_WE;gas;gas;90;0.31;0.6;0;BNA0659;Kraftwerk III;0;72
+p306;DE;n129;DE_NRW;dena72;DE_WE;coal;coal;55;0.35;1.02;3.25;BNA0660;Kraftwerk I  ;0;72
+p307;DE;n129;DE_NRW;dena72;DE_WE;coal;coal;60;0.34;1.06;3.37;BNA0661;Kraftwerk II;0;72
+p308;DE;n129;DE_NRW;dena72;DE_WE;coal;coal;60;0.38;0.94;3;BNA0662a;Kraftwerk I ;0;72
+p309;DE;n129;DE_NRW;dena72;DE_WE;coal;coal;134;0.41;0.87;2.78;BNA0662b;Kraftwerk I;0;72
+p310;DE;n404;DE_BY;dena26;DE_SE;ccgt;gas;276;0.45;0.42;0;BNA0683a;Süd DT1;0;26
+p311;DE;n404;DE_BY;dena26;DE_SE;ccgt;gas;265;0.56;0.34;0;BNA0684a;Süd GT 60;0;26
+p312;DE;n118;DE_NRW;dena73;DE_WE;gas;gas;116;0.39;0.48;0;BNA0685;Heizkraftwerk Hafen;0;73
+p313;DE;n022;DE_MV;dena81;DE_NE;gas;gas;87;0.44;0.43;0;BNA0688;GuD-HKW Neubrandenburg;0;81
+p314;DE;n008;DE_SH;dena21;DE_NW;oth;oil;71;0.35;0.74;0;BNA0693a;Heizkraftwerk NMS;0;21
+p315;DE;n008;DE_SH;dena21;DE_NW;oil;oil;6;0.33;0.79;0;BNA0693c;Heizkraftwerk NMS;0;21
+p316;DE;n370;DE_BY;dena26;DE_SE;gas;gas;29;0.37;0.51;0;BNA0702;Cogeneration;0;26
+p317;DE;n239;DE_NRW;dena74;DE_WE;lig;lig;54;0.39;1.03;0;BNA0714;Fortuna Nord;0;74
+p318;DE;n098;DE_BB;dena81;DE_NE;gas;gas;44;0.35;0.54;0;BNA0734;Thyrow;0;81
+p319;DE;n098;DE_BB;dena81;DE_NE;gas;gas;44;0.35;0.54;0;BNA0735;Thyrow;0;81
+p320;DE;n098;DE_BB;dena81;DE_NE;gas;gas;44;0.35;0.54;0;BNA0736;Thyrow;0;81
+p321;DE;n098;DE_BB;dena81;DE_NE;gas;gas;44;0.35;0.54;0;BNA0737;Thyrow;0;81
+p322;DE;n098;DE_BB;dena81;DE_NE;gas;gas;42;0.35;0.54;0;BNA0738;Thyrow;0;81
+p323;DE;n098;DE_BB;dena81;DE_NE;gas;gas;42;0.35;0.54;0;BNA0739;Thyrow;0;81
+p324;DE;n098;DE_BB;dena81;DE_NE;gas;gas;42;0.35;0.54;0;BNA0740;Thyrow;0;81
+p325;DE;n098;DE_BB;dena81;DE_NE;gas;gas;42;0.35;0.54;0;BNA0741;Thyrow;0;81
+p326;DE;n322;DE_BY;dena25;DE_SE;gas;gas;87;0.39;0.48;0;BNA0743;HKW Sandreuth;0;25
+p327;DE;n322;DE_BY;dena25;DE_SE;gas;gas;87;0.39;0.48;0;BNA0742;HKW Sandreuth;0;25
+p328;DE;n322;DE_BY;dena25;DE_SE;gas;gas;444;0.36;0.53;0;BNA0744;Franken 1;0;25
+p329;DE;n322;DE_BY;dena25;DE_SE;gas;gas;510;0.36;0.52;0;BNA0745;Franken 1;0;25
+p330;DE;n322;DE_BY;dena25;DE_SE;was;was;25;1;0;0;BNA0746;HKW Sandreuth;0;25
+p331;DE;n164;DE_NRW;dena72;DE_WE;was;was;40;1;0;0;BNA0750;GMVA Niederrhein;0;72
+p332;DE;n164;DE_NRW;dena72;DE_WE;was;was;21;1;0;0;BNA0751;GMVA Niederrhein;0;72
+p333;DE;n179;DE_NRW;dena72;DE_WE;gas;gas;27;0.31;0.61;0;BNA0752;HKW 1;0;72
+p334;DE;n179;DE_NRW;dena72;DE_WE;gas;gas;28;0.37;0.51;0;BNA0753;HKW 2;0;72
+p335;DE;n303;DE_BY;dena25;DE_SE;gas;gas;42;0.25;0.75;0;BNA0755a;Obernburg;0;25
+p336;DE;n303;DE_BY;dena25;DE_SE;gas;gas;74;0.37;0.51;0;BNA0755b;Obernburg;0;25
+p337;DE;n287;DE_HE;dena24;DE_WE;coal;coal;54;0.4;0.9;3.59;BNA0758;Heizkraftwerk Offenbach;0;24
+p338;DE;n013;DE_SH;dena21;DE_NW;oil;oil;93;0.31;0.86;0;BNA0759;Itzehoe;0;21
+p339;DE;n006;DE_SH;dena21;DE_NW;oil;oil;92;0.31;0.85;0;BNA0766;Audorf;0;21
+p340;DE;n366;DE_BW;dena41;DE_SW;gas;gas;13;0.3;0.63;0;BNA0799;Heizkraftwerk Pforzheim GmbH;0;41
+p341;DE;n366;DE_BW;dena41;DE_SW;gas;gas;48;0.41;0.45;0;BNA0800;Heizkraftwerk Pforzheim GmbH;0;41
+p342;DE;n366;DE_BW;dena41;DE_SW;coal;coal;27;0.4;0.9;4.3;BNA0801;Heizkraftwerk Pforzheim GmbH;0;41
+p343;DE;n245;DE_HE;dena24;DE_WE;gas;gas;41;0.28;0.67;0;BNA0804a;Hattorf;0;24
+p344;DE;n374;DE_BY;dena26;DE_SE;gas;gas;114;0.41;0.46;0;BNA0805;Kraftwerk Plattling;0;26
+p345;DE;n103;DE_NRW;dena23;DE_NW;gas;gas;75;0.36;0.53;0;BNA0810;Kraftwerk Veltheim;0;23
+p346;DE;n073;DE_BE;dena81;DE_NE;gas;gas;95;0.37;0.51;0;BNA0814;HKW Potsdam-Süd;0;81
+p347;DE;n385;DE_BW;dena42;DE_SW;gas;gas;11;0.41;0.46;0;BNA0832;BHKW-Hauffstraße;0;42
+p348;DE;n155;DE_NRW;dena72;DE_WE;coal;coal;79;0.36;0.99;3.17;BNA0834;Industrie-Kraftwerk;0;72
+p349;DE;n418;DE_BY;dena26;DE_SE;gas;gas;11;0.41;0.46;0;BNA0842a;Gasmotore;0;26
+p350;DE;n418;DE_BY;dena26;DE_SE;gas;gas;5;0.41;0.46;0;BNA0843;Gasmotor 5;0;26
+p351;DE;n418;DE_BY;dena26;DE_SE;was;was;9;1;0;0;BNA0845;MHKW;0;26
+p352;DE;n009;DE_MV;dena81;DE_NE;gas;gas;125;0.44;0.43;0;BNA0848;GuD Marienehe;0;81
+p353;DE;n070;DE_BB;dena81;DE_NE;was;was;30;1;0;0;BNA0855;IKW Rüdersdorf;0;81
+p354;DE;n271;DE_TH;dena83;DE_EA;gas;gas;24;0.4;0.47;0;BNA0856;HKW Schwarza;0;83
+p355;DE;n297;DE_RP;dena75;DE_SW;ccgt;gas;112;0.54;0.35;0;BNA0857;GuD-Anlage Rüsselsheim;0;75
+p356;DE;n343;DE_SL;dena75;DE_SW;gas;gas;145;0.45;0.42;0;BNA0861;Römerbrücke;0;75
+p357;DE;n106;DE_NI;dena23;DE_NW;oth;oil;112;0.35;0.74;0;BNA0863;Kraftwerk Salzgitter;0;23
+p358;DE;n106;DE_NI;dena23;DE_NW;oth;oil;115;0.35;0.74;0;BNA0865b;Kraftwerk Salzgitter;0;23
+p359;DE;n106;DE_NI;dena23;DE_NW;oth;oil;12;0.35;0.74;0;BNA0865a;Gichtgas HO A;0;23
+p360;DE;n106;DE_NI;dena23;DE_NW;oth;oil;115;0.35;0.74;0;BNA0864;Kraftwerk Salzgitter;0;23
+p361;DE;n121;DE_BB;dena84;DE_EA;ccgt;gas;122;0.51;0.37;0;BNA0893;GuD Schwarzheide;0;84
+p362;DE;n054;DE_BB;dena81;DE_NE;oil;oil;30;0.31;0.86;0;BNA0894a;IKS PCK Schwedt;0;81
+p363;DE;n054;DE_BB;dena81;DE_NE;oil;oil;37;0.36;0.72;0;BNA0894b;IKS PCK Schwedt;0;81
+p364;DE;n054;DE_BB;dena81;DE_NE;oil;oil;112;0.38;0.7;0;BNA0894d;IKS PCK Schwedt;0;81
+p365;DE;n054;DE_BB;dena81;DE_NE;oil;oil;112;0.38;0.7;0;BNA0894c;IKS PCK Schwedt;0;81
+p366;DE;n054;DE_BB;dena81;DE_NE;oil;oil;63;0.41;0.65;0;BNA0894e;IKS PCK Schwedt;0;81
+p367;DE;n295;DE_BY;dena25;DE_SE;was;was;24;1;0;0;BNA0895;GKS;0;25
+p368;DE;n030;DE_MV;dena81;DE_NE;gas;gas;60;0.36;0.52;0;BNA0896;HKW Schwerin Süd;0;81
+p369;DE;n030;DE_MV;dena81;DE_NE;gas;gas;27;0.36;0.52;0;BNA0897;HKW Schwerin Lankow;0;81
+p370;DE;n117;DE_ST;dena81;DE_NE;ccgt;gas;132;0.52;0.36;0;BNA0922;GuD-Ikw Staßfurt;0;81
+p371;DE;n303;DE_BY;dena25;DE_SE;coal;coal;25;0.35;1.04;7.43;BNA0926b;Heizkraftwerk der Sappi Stockstadt GmbH;0;25
+p372;DE;n368;DE_BW;dena42;DE_SW;coal;coal;23;0.45;0.8;3.85;BNA0934;Heizkraftwerk Stuttgart-Gaisburg;0;42
+p373;DE;n368;DE_BW;dena42;DE_SW;coal;coal;45;0.38;0.95;4.53;BNA0936;Restmüll-Heizkraftwerk Stuttgart-Münster;0;42
+p374;DE;n368;DE_BW;dena42;DE_SW;coal;coal;45;0.39;0.94;4.47;BNA0935;Restmüll-Heizkraftwerk Stuttgart-Münster;0;42
+p375;DE;n368;DE_BW;dena42;DE_SW;oil;oil;25;0.31;0.85;0;BNA0939b;Restmüll-Heizkraftwerk Stuttgart-Münster;0;42
+p376;DE;n368;DE_BW;dena42;DE_SW;oil;oil;25;0.31;0.85;0;BNA0937;Restmüll-Heizkraftwerk Stuttgart-Münster;0;42
+p377;DE;n368;DE_BW;dena42;DE_SW;was;was;20;1;0;0;BNA0939a;Restmüll-Heizkraftwerk Stuttgart-Münster;0;42
+p378;DE;n368;DE_BW;dena42;DE_SW;oil;oil;25;0.31;0.85;0;BNA0938;Restmüll-Heizkraftwerk Stuttgart-Münster;0;42
+p379;DE;n385;DE_BW;dena42;DE_SW;gas;gas;15;0.38;0.5;0;BNA0957;BHKW Obere Viehweide;0;42
+p380;DE;n348;DE_SL;dena75;DE_SW;coal;coal;179;0.38;0.95;4.53;BNA0998;Modellkraftwerk;0;75
+p381;DE;n348;DE_SL;dena75;DE_SW;coal;coal;211;0.4;0.91;4.33;BNA0999;Heizkraftwerk;0;75
+p382;DE;n213;DE_SN;dena84;DE_EA;lig;lig;31;0.39;1.04;0;BNA1002;Wählitz;0;84
+p383;DE;n363;DE_BW;dena42;DE_SW;oil;oil;144;0.33;0.8;0;BNA1004;Kraftwerk Walheim;0;42
+p384;DE;n363;DE_BW;dena42;DE_SW;coal;coal;96;0.34;1.08;5.14;BNA1005;Kraftwerk Walheim;0;42
+p385;DE;n363;DE_BW;dena42;DE_SW;coal;coal;148;0.34;1.05;5.02;BNA1006;Kraftwerk Walheim;0;42
+p386;DE;n423;DE_BY;dena76;DE_SE;oil;oil;25;0.35;0.76;0;BNA1007a;SKW Gasturbine;0;76
+p387;DE;n423;DE_BY;dena76;DE_SE;oil;oil;11;0.32;0.82;0;BNA1007b;SKW Diesel;0;76
+p388;DE;n025;DE_SH;dena82;DE_NW;oil;oil;54;0.31;0.86;0;BNA1015;Wedel;0;82
+p389;DE;n025;DE_SH;dena82;DE_NW;oil;oil;54;0.31;0.86;0;BNA1016;Wedel;0;82
+p390;DE;n257;DE_NRW;dena74;DE_WE;was;was;24;1;0;0;BNA1020;MVA Weisweiler;0;74
+p391;DE;n257;DE_NRW;dena74;DE_WE;lig;lig;312;0.32;1.27;0;BNA1025;Weisweiler;0;74
+p392;DE;n205;DE_NRW;dena73;DE_WE;coal;coal;186;0.35;1.02;3.25;BNA1035;Kraftwerk Werdohl-Elverlingsen;0;73
+p393;DE;n133;DE_NRW;dena73;DE_WE;gas;gas;64;0.31;0.61;0;BNA1039;Gersteinwerk;0;73
+p394;DE;n133;DE_NRW;dena73;DE_WE;gas;gas;64;0.4;0.46;0;BNA1040;Gersteinwerk;0;73
+p395;DE;n133;DE_NRW;dena73;DE_WE;gas;gas;64;0.31;0.61;0;BNA1041;Gersteinwerk;0;73
+p396;DE;n133;DE_NRW;dena73;DE_WE;gas;gas;64;0.31;0.61;0;BNA1042;Gersteinwerk;0;73
+p397;DE;n133;DE_NRW;dena73;DE_WE;gas;gas;130;0.42;0.45;0;BNA1046b;Gersteinwerk;0;73
+p398;DE;n297;DE_RP;dena75;DE_SW;gas;gas;29;0.4;0.48;0;BNA1056;Wi-Biebrich;0;75
+p399;DE;n033;DE_NI;dena22;DE_NW;oil;oil;59;0.31;0.85;0;BNA1060;Wilhelmshaven;0;22
+p400;DE;n126;DE_ST;dena83;DE_EA;gas;gas;46;0.37;0.51;0;BNA1074;Spitzenlastkraftwerk Wolfen;0;83
+p401;DE;n208;DE_HE;dena24;DE_WE;coal;coal;62;0.43;0.85;3.37;BNA1075a;HKW Nord;0;24
+p402;DE;n083;DE_NI;dena23;DE_NW;coal;coal;62;0.43;0.85;1.35;BNA1075b;HKW Nord;0;23
+p403;DE;n208;DE_HE;dena24;DE_WE;coal;coal;139;0.39;0.93;3.7;BNA1076b;HKW West;0;24
+p404;DE;n083;DE_NI;dena23;DE_NW;coal;coal;139;0.39;0.93;1.48;BNA1076a;HKW West;0;23
+p405;DE;n358;DE_BW;dena41;DE_SW;gas;gas;68;0.4;0.47;0;BNA1078;HKW Wörth;0;41
+p406;DE;n211;DE_NRW;dena72;DE_WE;gas;gas;95;0.39;0.48;0;BNA1082;HKW Barmen;0;72
+p407;DE;n211;DE_NRW;dena72;DE_WE;oil;oil;64;0.4;0.66;0;BNA1083;Spitzenlastanlage Barmen;0;72
+p408;DE;n217;DE_NRW;dena72;DE_WE;coal;coal;85;0.4;0.91;2.89;BNA1084;HKW Elberfeld ;0;72
+p409;DE;n296;DE_BY;dena25;DE_SE;gas;gas;27;0.31;0.62;0;BNA1085;Heizkraftwerke an der Friedensbrücke;0;25
+p410;DE;n296;DE_BY;dena25;DE_SE;gas;gas;29;0.36;0.52;0;BNA1086;Heizkraftwerke an der Friedensbrücke;0;25
+p411;DE;n296;DE_BY;dena25;DE_SE;gas;gas;34;0.4;0.47;0;BNA1087;Heizkraftwerke an der Friedensbrücke;0;25
+p412;DE;n296;DE_BY;dena25;DE_SE;gas;gas;52;0.39;0.48;0;BNA1088;Heizkraftwerke an der Friedensbrücke;0;25
+p413;DE;n095;DE_ST;dena81;DE_NE;gas;gas;60;0.37;0.51;0;BNA1089;Zielitz;0;81
+p414;DE;n393;DE_BY;dena26;DE_SE;oil;oil;49;0.32;0.83;0;BNA1092;Zolling;0;26
+p415;DE;n248;DE_NRW;dena74;DE_WE;gas;gas;18;0.29;0.65;0;BNA1094;Gaskraftwerk;0;74
+p416;DE;n248;DE_NRW;dena74;DE_WE;lig;lig;14;0.42;0.94;0;BNA1097;Kohlekraftwerk;0;74
+p417;DE;n394;DE_BY;dena76;DE_SE;gas;gas;34;0.29;0.65;0;BNA1103;UPM Augsburg;0;76
+p418;DE;n394;DE_BY;dena76;DE_SE;gas;gas;21;0.32;0.59;0;BNA1104;Heizkraftwerk;0;76
+p419;DE;n236;DE_TH;dena83;DE_EA;gas;gas;12;0.36;0.52;0;BNA1105;HKW Bad Salzungen;0;83
+p420;DE;n126;DE_ST;dena83;DE_EA;was;was;10;1;0;0;BNA1108;PD energy GmbH;0;83
+p421;DE;n371;DE_BW;dena41;DE_SW;was;was;10;1;0;0;BNA1110;Restmüllheizkraftwerk Böblingen;0;41
+p422;DE;n053;DE_HB;dena22;DE_NW;was;was;12;1;0;0;BNA1114;MHKW;0;22
+p423;DE;n341;DE_SL;dena75;DE_SW;oth;oil;101;0.35;0.74;0;BNA1115;Gichtgaskraftwerk Dillingen;0;75
+p424;DE;n038;DE_NI;dena22;DE_NW;was;was;14;1;0;0;BNA1116;BEG;0;22
+p425;DE;n303;DE_BY;dena25;DE_SE;gas;gas;13;0.38;0.5;0;BNA1117;Industriekraftwerk Breuberg;0;25
+p426;DE;n406;DE_BY;dena26;DE_SE;was;was;12;1;0;0;BNA1119;MHKW Burgkirchen;0;26
+p427;DE;n152;DE_NRW;dena72;DE_WE;gas;gas;12;0.36;0.53;0;BNA1120;Energiezentrale;0;72
+p428;DE;n152;DE_NRW;dena72;DE_WE;gas;gas;1;0.39;0.48;0;BNA1121;Energiezentrale;0;72
+p429;DE;n309;DE_HE;dena75;DE_SW;gas;gas;12;0.38;0.5;0;BNA1125;Heizkraftwerk;0;75
+p430;DE;n382;DE_BY;dena26;DE_SE;gas;gas;8;0.38;0.5;0;BNA1127;GHD;0;26
+p431;DE;n382;DE_BY;dena26;DE_SE;gas;gas;8;0.38;0.5;0;BNA1128;GHD;0;26
+p432;DE;n249;DE_NRW;dena74;DE_WE;gas;gas;16;0.4;0.47;0;BNA1131;MT, Düren;0;74
+p433;DE;n209;DE_NRW;dena72;DE_WE;gas;gas;12;0.38;0.5;0;BNA1138;BHKW an Klinkerweg;0;72
+p434;DE;n407;DE_BW;dena42;DE_SW;was;was;14;1;0;0;BNA1139;TREA Breisgau;0;42
+p435;DE;n269;DE_RP;dena74;DE_WE;lig;lig;10;0.39;1.03;0;BNA1141;P&L Werk Euskirchen;0;74
+p436;DE;n379;DE_BW;dena42;DE_SW;was;was;11;1;0;0;BNA1144;EEW Göppingen;0;42
+p437;DE;n133;DE_NRW;dena73;DE_WE;was;was;15;1;0;0;BNA1148;MVA Hamm;0;73
+p438;DE;n339;DE_BW;dena41;DE_SW;gas;gas;16;0.39;0.49;0;BNA1151;KWKK Heidelberg;0;41
+p439;DE;n158;DE_NRW;dena72;DE_WE;was;was;13;1;0;0;BNA1154;RZR Herten I;0;72
+p440;DE;n158;DE_NRW;dena72;DE_WE;was;was;17;1;0;0;BNA1155;RZR Herten II;0;72
+p441;DE;n375;DE_BY;dena26;DE_SE;was;was;21;1;0;0;BNA1161;MVA Ingolstadt;0;26
+p442;DE;n249;DE_NRW;dena74;DE_WE;lig;lig;25;0.41;0.98;0;BNA1164;P&L Werk Jülich;0;74
+p443;DE;n130;DE_NRW;dena72;DE_WE;gas;gas;13;0.39;0.48;0;BNA1165;P&L Werk Appeldorn;0;72
+p444;DE;n155;DE_NRW;dena72;DE_WE;was;was;16;1;0;0;BNA1167;Abfallentsorgungszentrum Asdonkshof;0;72
+p445;DE;n208;DE_HE;dena24;DE_WE;was;was;15;1;0;0;BNA1168;Müllheizkraftwerk;0;24
+p446;DE;n231;DE_NRW;dena74;DE_WE;gas;gas;18;0.29;0.65;0;BNA1182;HKW Merkenich;0;74
+p447;DE;n247;DE_NRW;dena74;DE_WE;gas;gas;18;0.38;0.49;0;BNA1183;HKW Merheim;0;74
+p448;DE;n233;DE_NRW;dena74;DE_WE;was;was;45;1;0;0;BNA1184;RMVA Köln;0;74
+p449;DE;n117;DE_ST;dena81;DE_NE;lig;lig;20;0.39;1.03;0;BNA1185;P&L Werk Könnern;0;81
+p450;DE;n193;DE_NRW;dena72;DE_WE;was;was;14;1;0;0;BNA1186a;MKVA Krefeld;0;72
+p451;DE;n193;DE_NRW;dena72;DE_WE;was;was;14;1;0;0;BNA1186b;MKVA Krefeld;0;72
+p452;DE;n193;DE_NRW;dena72;DE_WE;was;was;2;1;0;0;BNA1186c;MKVA Krefeld;0;72
+p453;DE;n193;DE_NRW;dena72;DE_WE;was;was;3;1;0;0;BNA1186d;MKVA Krefeld;0;72
+p454;DE;n193;DE_NRW;dena72;DE_WE;was;was;2;1;0;0;BNA1186e;MKVA Krefeld;0;72
+p455;DE;n114;DE_NRW;dena73;DE_WE;gas;gas;12;0.33;0.57;0;BNA1187;P&L Werk Lage;0;73
+p456;DE;n224;DE_SN;dena84;DE_EA;was;was;15;1;0;0;BNA1190;Thermische Abfallbehandlung Lauta GmbH & Co. oHG;0;84
+p457;DE;n114;DE_NRW;dena73;DE_WE;gas;gas;15;0.39;0.49;0;BNA1193;HKW-West;0;73
+p458;DE;n327;DE_RP;dena75;DE_SW;gas;gas;14;0.4;0.47;0;BNA1196a;BHKW Ludwigshafen;0;75
+p459;DE;n327;DE_RP;dena75;DE_SW;gas;gas;14;0.39;0.49;0;BNA1196b;Industriekraftwerk Ludwigshafen;0;75
+p460;DE;n324;DE_RP;dena75;DE_SW;was;was;29;1;0;0;BNA1197;FHKW Ludwigshafen;0;75
+p461;DE;n213;DE_SN;dena84;DE_EA;was;was;25;1;0;0;BNA1198;SITA Abfallverwertung GmbH ;0;84
+p462;DE;n297;DE_RP;dena75;DE_SW;was;was;16;1;0;0;BNA1199;MHKW Mainz;0;75
+p463;DE;n324;DE_RP;dena75;DE_SW;gas;gas;20;0.45;0.42;0;BNA1200;GuD-Kraftwerk;0;75
+p464;DE;n414;DE_BY;dena76;DE_SE;oil;oil;12;0.37;0.72;0;BNA1212;DKW Nord;0;76
+p465;DE;n301;DE_HE;dena75;DE_SW;was;was;10;1;0;0;BNA1222;Müllheizkraftwerk Offenbach;0;75
+p466;DE;n412;DE_BY;dena26;DE_SE;gas;gas;6;0.35;0.54;0;BNA1225;PWG;0;26
+p467;DE;n412;DE_BY;dena26;DE_SE;gas;gas;6;0.35;0.54;0;BNA1226;PWG;0;26
+p468;DE;n414;DE_BY;dena76;DE_SE;oil;oil;12;0.37;0.72;0;BNA1227;DKW Leinau;0;76
+p469;DE;n344;DE_SL;dena75;DE_SW;was;was;15;1;0;0;BNA1229;MHKW Pirmasens;0;75
+p470;DE;n079;DE_BB;dena81;DE_NE;was;was;3;1;0;0;BNA1232;ZWSF;0;81
+p471;DE;n079;DE_BB;dena81;DE_NE;was;was;15;1;0;0;BNA1233;EVE;0;81
+p472;DE;n418;DE_BY;dena26;DE_SE;gas;gas;15;0.38;0.5;0;BNA1238;Kraftwerk Meggle;0;26
+p473;DE;n009;DE_MV;dena81;DE_NE;was;was;17;1;0;0;BNA1243;EBS-HKW Rostock;0;81
+p474;DE;n348;DE_SL;dena75;DE_SW;was;was;16;1;0;0;BNA1244;AVA Velsen;0;75
+p475;DE;n414;DE_BY;dena76;DE_SE;gas;gas;52;0.3;0.63;0;BNA1248;UPM Schongau;0;76
+p476;DE;n414;DE_BY;dena76;DE_SE;oth;oil;7;0.35;0.74;0;BNA1249;UPM Schongau;0;76
+p477;DE;n345;DE_BY;dena25;DE_SE;was;was;54;1;0;0;BNA1254;Müllkraftwerk Schwandorf;0;25
+p478;DE;n054;DE_BB;dena81;DE_NE;was;was;29;1;0;0;BNA1255;Kraftwerk Schwedt GmbH & Co.KG;0;81
+p479;DE;n371;DE_BW;dena41;DE_SW;gas;gas;75;0.33;0.57;0;BNA1260;Heizkraftwerk Sindelfingen;0;41
+p480;DE;n034;DE_HH;dena82;DE_NW;was;was;16;1;0;0;BNA1261;EEW Stapelfeld GmbH;0;82
+p481;DE;n117;DE_ST;dena81;DE_NE;was;was;24;1;0;0;BNA1262;EVZA Energie- und Verwertungszentrale GmbH, Anhalt;0;81
+p482;DE;n273;DE_TH;dena83;DE_EA;gas;gas;16;0.37;0.51;0;BNA1264;HKW Bohrhügel;0;83
+p483;DE;n245;DE_HE;dena24;DE_WE;gas;gas;39;0.35;0.54;0;BNA1271;Unterbreizbach;0;24
+p484;DE;n323;DE_BW;dena75;DE_SW;gas;gas;24;0.39;0.48;0;BNA1276;Kraftwerk Freudenberg Weinheim;0;75
+p485;DE;n255;DE_NRW;dena74;DE_WE;gas;gas;60;0.37;0.51;0;BNA1279;Gasturbine;0;74
+p486;DE;n255;DE_NRW;dena74;DE_WE;oil;oil;70;0.28;0.94;0;BNA1280;Kraftwerk;0;74
+p487;DE;n317;DE_RP;dena75;DE_SW;gas;gas;13;0.36;0.53;0;BNA1284;Co-Generation;0;75
+p488;DE;n084;DE_NI;dena23;DE_NW;gas;gas;22;0.31;0.6;0;BNA1285;Sigmundshall;0;23
+p489;DE;n273;DE_TH;dena83;DE_EA;was;was;11;1;0;0;BNA1286;Restabfallbehandlungsanlage;0;83
+p490;DE;n187;DE_NRW;dena73;DE_WE;was;was;13;1;0;0;BNA1289;AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH;0;73
+p491;DE;n279;DE_RP;dena74;DE_WE;gas;gas;14;0.4;0.47;0;BNA1291;IHKW Andernach;0;74
+p492;DE;n376;DE_BW;dena42;DE_SW;gas;gas;13;0.34;0.56;0;BNA1292a;IHKW Heidenheim;0;42
+p493;DE;n376;DE_BW;dena42;DE_SW;gas;gas;22;0.38;0.5;0;BNA1292b;IHKW Heidenheim;0;42
+p494;DE;n239;DE_NRW;dena74;DE_WE;lig;lig;10;0.39;1.03;0;BNA1293b;Kraftwerk;0;74
+p495;DE;n037;DE_HH;dena82;DE_NW;oil;oil;40;0.36;0.73;0;BNA1294;EEV;0;82
+p496;DE;n394;DE_BY;dena76;DE_SE;was;was;10;1;0;0;BNA1295;AVA GmbH;0;76
+p497;DE;n407;DE_BW;dena42;DE_SW;gas;gas;21;0.37;0.51;0;BNA1315;HKW;0;42
+p498;DE;n217;DE_NRW;dena72;DE_WE;was;was;30;1;0;0;BNA1316;Müllheizkraftwerk;0;72
+p499;DE;n393;DE_BY;dena26;DE_SE;gas;gas;13;0.36;0.52;0;BNA1327a;Energiezentrale 1992;0;26
+p500;DE;n393;DE_BY;dena26;DE_SE;gas;gas;9;0.39;0.49;0;BNA1327b;Erweiterung Energiezentrale 2003;0;26
+p501;DE;n418;DE_BY;dena26;DE_SE;gas;gas;28;0.39;0.49;0;BNA1328;HBB;0;26
+p502;DE;n250;DE_SN;dena84;DE_EA;gas;gas;15;0.36;0.52;0;BNA1329;K&N PFK AG EV;0;84
+p503;DE;n020;DE_SH;dena21;DE_NW;oth;oil;20;0.35;0.74;0;BNA1330;Steinbeis Energie;0;21
+p504;DE;n215;DE_NRW;dena73;DE_WE;coal;coal;19;0.32;1.14;3.64;BNA1331;Reno De Medici;0;73
+p505;DE;n172;DE_NRW;dena72;DE_WE;gas;gas;26;0.37;0.51;0;BNA1332;Sasol Kraftwerk;0;72
+p506;DE;n371;DE_BW;dena41;DE_SW;gas;gas;14;0.37;0.5;0;BNA1333a;HKW Pfaffenwald;0;41
+p507;DE;n371;DE_BW;dena41;DE_SW;gas;gas;13;0.35;0.53;0;BNA1333b;HKW Pfaffenwald;0;41
+p508;DE;n371;DE_BW;dena41;DE_SW;gas;gas;13;0.35;0.54;0;BNA1333c;HKW Pfaffenwald;0;41
+p509;DE;n055;DE_NI;dena22;DE_NW;gas;gas;5;0.36;0.52;0;BNA1334a;KWK-Anlage;0;22
+p510;DE;n055;DE_NI;dena22;DE_NW;gas;gas;6;0.39;0.49;0;BNA1334b;KWK-Anlage;0;22
+p511;DE;n055;DE_NI;dena22;DE_NW;gas;gas;6;0.39;0.49;0;BNA1334c;KWK-Anlage;0;22
+p512;DE;n055;DE_NI;dena22;DE_NW;gas;gas;0;0.39;0.48;0;BNA1334d;KWK-Anlage;0;22
+p513;DE;n042;DE_NI;dena22;DE_NW;gas;gas;67;0.35;0.54;0;BNA1335a;PKV Kraftwerk;0;22
+p514;DE;n042;DE_NI;dena22;DE_NW;gas;gas;1;0.35;0.54;0;BNA1335b;PKV Kraftwerk;0;22
+p515;DE;n219;DE_NRW;dena72;DE_WE;gas;gas;97;0.25;0.75;0;BNA1336;Holthausen;0;72
+p516;DE;n374;DE_BY;dena26;DE_SE;oil;oil;20;0.37;0.72;0;BNA1338;Spitzenkraftwerk;0;26
+p517;DE;n240;DE_SN;dena84;DE_EA;gas;gas;40;0.38;0.5;0;BNA1396;EVC / GLOBALFOUNDRIES;0;84
+p518;DE;n223;DE_NRW;dena72;DE_WE;oth;oil;24;0.35;0.74;0;BNA1397a;O10;0;72
+p519;DE;n223;DE_NRW;dena72;DE_WE;oth;oil;24;0.35;0.74;0;BNA1397b;O10;0;72
+p520;DE;n223;DE_NRW;dena72;DE_WE;oth;oil;24;0.35;0.74;0;BNA1397c;O10;0;72
+p521;DE;n223;DE_NRW;dena72;DE_WE;oth;oil;12;0.35;0.74;0;BNA1397d;O10;0;72
+p522;DE;n223;DE_NRW;dena72;DE_WE;oth;oil;36;0.35;0.74;0;BNA1397e;O10;0;72
+p523;DE;n164;DE_NRW;dena72;DE_WE;oth;oil;45;0.35;0.74;0;BNA1399;Oxea GmbH;0;72
+p524;DE;n213;DE_SN;dena84;DE_EA;lig;lig;19;0.38;1.04;0;BNA1400a;EZ1;0;84
+p525;DE;n213;DE_SN;dena84;DE_EA;oil;oil;15;0.36;0.73;0;BNA1400b;EZ1;0;84
+p526;DE;n061;DE_NI;dena22;DE_NW;gas;gas;21;0.37;0.51;0;BNA1402;Heizkraftwerk zur Papierfabrik;0;22
+p527;DE;n083;DE_NI;dena23;DE_NW;gas;gas;13;0.37;0.51;0;BNA1403;Steinitz;0;23
+p528;DE;n396;DE_BW;dena42;DE_SW;coal;coal;21;0.37;0.97;4.65;BNA1405a;Heizkraftwerk Magirusstraße;0;42
+p529;DE;n207;DE_NRW;dena72;DE_WE;gas;gas;22;0.36;0.52;0;BNA1406;FS-Karton;0;72
+p530;DE;n250;DE_SN;dena84;DE_EA;gas;gas;16;0.4;0.47;0;BNA1407;STW;0;84
+p531;DE;n430;DE_BW;dena42;DE_SW;gas;gas;19;0.33;0.57;0;BNA1408;Heizkraftwerk Evonik Rheinfelden;0;42
+p532;DE;n191;DE_NRW;dena72;DE_WE;oth;oil;25;0.35;0.74;0;BNA1409;DK Kraftwerk;0;72
+p533;DE;n331;DE_BY;dena25;DE_SE;gas;gas;5;0.36;0.52;0;BNA1444a;GT1 ;0;25
+p534;DE;n331;DE_BY;dena25;DE_SE;gas;gas;5;0.36;0.52;0;BNA1444b;GT2 ;0;25
+p535;DE;n331;DE_BY;dena25;DE_SE;gas;gas;6;0.36;0.52;0;BNA1444c;GT3 ;0;25
+p536;DE;n331;DE_BY;dena25;DE_SE;gas;gas;6;0.37;0.51;0;BNA1444d;GT4 ;0;25
+p537;DE;n317;DE_RP;dena75;DE_SW;was;was;12;1;0;0;BNA1447a;0;0;75
+p538;DE;n317;DE_RP;dena75;DE_SW;was;was;7;1;0;0;BNA1447b;0;0;75
+p539;DE;n334;DE_SL;dena75;DE_SW;was;was;12;1;0;0;BNA1448;AHKW Neunkirchen;0;75
+p540;DE;n296;DE_BY;dena25;DE_SE;was;was;24;1;0;0;BNA1449b;Turbosatz 2;0;25
+p541;DE;n088;DE_NI;dena23;DE_NW;ccgt;gas;13;0.54;0.35;0;BNA1450;GUD-Anlage DREWSEN;0;23
+p542;DE;n175;DE_NRW;dena72;DE_WE;lig;lig;28;0.39;1.03;0;BNA1451;HKW Sachtleben;0;72
+p543;DE;n326;DE_RP;dena75;DE_SW;gas;gas;32;0.37;0.51;0;BNA1458;0;0;75
+p544;DE;n213;DE_SN;dena84;DE_EA;lig;lig;18;0.41;0.97;0;BNA1461;0;0;84
+p545;DE;n181;DE_TH;dena83;DE_EA;gas;gas;23;0.32;0.58;0;BNA1463;0;0;83
+p546;DE;n343;DE_SL;dena75;DE_SW;gas;gas;45;0.41;0.46;0;BNA1464;Gas- u. Dampfturbinenanlage Südraum;0;75
+p547;DE;n165;DE_NI;dena24;DE_WE;oth;oil;33;0.35;0.74;0;BNA1465;EBS-Kraftwerk Witzenhausen;0;24
+p548;DE;n391;DE_BW;dena42;DE_SW;coal;coal;19;0.41;0.87;4.17;BNA1467;0;0;42
+p549;DE;n188;DE_ST;dena83;DE_EA;lig;lig;49;0.35;1.14;0;BNA1486;Grubenheizkraftwerk;0;83
+p550;DE;n161;DE_NRW;dena72;DE_WE;oth;oil;19;0.35;0.74;0;BNA1488;0;0;72
+p551;DE;n068;DE_ST;dena81;DE_NE;gas;gas;26;0.36;0.52;0;BNA1489;Heizkraftwerk Stendal;0;81
+p552;DE;n251;DE_NRW;dena74;DE_WE;was;was;33;1;0;0;BNA1490;EBKW Knapsack;0;74
+p553;DE;n276;DE_HE;dena24;DE_WE;gas;gas;30;0.35;0.53;0;BNA1492a;Kraftwerk 3;0;24
+p554;DE;n276;DE_HE;dena24;DE_WE;gas;gas;9;0.37;0.51;0;BNA1492b;Kraftwerk 2;0;24
+p555;DE;n208;DE_HE;dena24;DE_WE;gas;gas;14;0.28;0.68;0;BNA0059a;HKW Kassel;0;24
+p556;DE;n323;DE_BW;dena75;DE_SW;gas;gas;24;0.33;0.57;0;BNA1275;Kraftwerk Freudenberg Weinheim;0;75
+p557;DE;n055;DE_NI;dena22;DE_NW;oth;oil;131;0.35;0.74;0;BNA0143;KW Mittelsbüren;0;22
+p558;DE;n213;DE_SN;dena84;DE_EA;lig;lig;60;0.32;1.24;0;BNA0680;Mumsdorf;0;84
+p559;LU;n316;LU;dena91;LU;ccgt;gas;376;0.55;0.34;0;Luxemburg;Esch-sur-alzette;0;91
+p560;LU;n316;LU;dena91;LU;was;was;17;1;0;0;Luxemburg;Sidor;0;91
+p561;LU;n316;LU;dena91;LU;gas;gas;17;0.35;0.53;0;Luxemburg;LU_Gas Agg;0;91
+p562;LU;n307;LU;dena91;LU;gas;gas;17;0.35;0.53;0;Luxemburg;LU_Gas Agg;0;91

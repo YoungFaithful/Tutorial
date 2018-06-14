@@ -1,0 +1,33 @@
+pspno;cou;nodeno;sta;dena;z6;cap;eff;sto;Plant name;;dena
+s001;DE;n429;DE_BW;dena42;DE_SW;360;0,75;2520;Säckingen;;42
+s002;DE;n218;DE_HE;dena24;DE_WE;143;0,75;1001;Waldeck1/Bringhausen;;24
+s003;DE;n218;DE_HE;dena24;DE_WE;480;0,75;3360;Waldeck 2;;24
+s004;DE;n205;DE_NRW;dena73;DE_WE;138;0,75;690;Pumpspeicherwerk Rönkhausen;;73
+s005;DE;n378;DE_BW;dena42;DE_SW;43;0,75;301;Rudolf-Fettweis-Werk     ;;42
+s006;DE;n039;DE_NI;dena82;DE_NW;119;0,75;534;Geesthacht;;82
+s007;DE;n303;DE_BY;dena25;DE_SE;164;0,75;1148;PSW Langenprozelten;;25
+s008;DE;n273;DE_TH;dena83;DE_EA;1052;0,75;8500;Goldisthal;;83
+s009;DE;n428;DE_BW;dena42;DE_SW;100;0,75;463;Häusern;;42
+s010;DE;n189;DE_NRW;dena72;DE_WE;153;0,75;590;Koepchenwerk;;72
+s011;DE;n275;DE_TH;dena83;DE_EA;60;0,75;600;Hohenwarte 1;;83
+s012;DE;n275;DE_TH;dena83;DE_EA;318;0,75;2088;Hohenwarte 2;;83
+s013;DE;n119;DE_NI;dena23;DE_NW;220;0,75;940;Erzhausen;;23
+s014;DE;n277;DE_SN;dena84;DE_EA;1045;0,75;4020;Markersbach;;84
+s015;DE;n385;DE_BW;dena42;DE_SW;90;0,75;560;Pumpspeicherkraftwerk Glems;;42
+s016;DE;n240;DE_SN;dena84;DE_EA;40;0,75;790;Niederwartha;;84
+s017;DE;n275;DE_TH;dena83;DE_EA;80;0,75;800;Bleiloch;;83
+s018;DE;n318;DE_BY;dena25;DE_SE;28;0,75;88;Kraftwerksgruppe Pfreimd;;25
+s019;DE;n318;DE_BY;dena25;DE_SE;99;0,75;312;Kraftwerksgruppe Pfreimd;;25
+s020;DE;n418;DE_BY;dena26;DE_SE;49;0,75;250;Leitzach 1;;26
+s021;DE;n418;DE_BY;dena26;DE_SE;50;0,75;300;Leitzach 2;;26
+s022;DE;n306;DE_RP;dena75;DE_SW;596;0,75;2218;PSW Vianden (LUX);;75
+s023;DE;n304;DE_RP;dena75;DE_SW;500;0,75;2407;PSW Vianden (LUX);;75
+s024;DE;n427;DE_BW;dena42;DE_SW;150;0,75;402;Kraftwerk Waldshut;;42
+s025;DE;n429;DE_BW;dena42;DE_SW;910;0,75;6370;Wehr;;42
+s026;DE;n181;DE_TH;dena83;DE_EA;80;0,75;522;Wendefurth;;83
+s027;DE;n428;DE_BW;dena42;DE_SW;220;0,75;636;Witznau;;42
+s028;AT;n438;AT;dena92;AT;247;0,75;1729;Kopswerk I ;;92
+s029;AT;n438;AT;dena92;AT;525;0,75;3675;Kopswerk II ;;92
+s030;AT;n438;AT;dena92;AT;238;0,75;1666;Lünerseewerk;;92
+s031;AT;n438;AT;dena92;AT;198;0,75;1386;Rodundwerk I;;92
+s032;AT;n438;AT;dena92;AT;295;0,75;2065;Rodundwerk II;;92

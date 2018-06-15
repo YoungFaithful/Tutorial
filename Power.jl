@@ -13,7 +13,7 @@ for dataname in readdir("Power_Data")
  data[split(dataname,'.')[1]]=CSV.read("Power_Data/$dataname", delim=';')
 end
 
-#Plot a little of the input data by plotting the installed capacities of wind, pv and ror on a map like graph
+
 loc=scatter()
 loclist=["off" "grey" "Wind-Offshore"; "on" "blue" "Wind-Onshore"; "pv" "yellow" "PV"; "ror" "red" "Water" ]
 for i=1:size(loclist,1)
@@ -51,10 +51,10 @@ end
 (g_opt, w_opt, pv_opt, obj)=solve_el(data);
 
 #Visualize Demand, residual and production of each powerplant
-plotlyjs()
+
 Dem=plot(data["h_demand"][:demand],label="Demand",lw=5)
 Dem=plot!(data["h_demand"][:demand]-sum(pv_opt[n,:] for n=1:size(pv_opt[:,1],1))-sum(w_opt[n,:] for n=1:size(w_opt[:,1],1)),label="Residual",lw=5, color="LightBlue")
-Dem=groupedbar!(transpose(g_opt[:,:]), bar_position = :stack, lw=0, label=reshape(data["plant_con"][:Plantname], 1, 98), colour=reshape(colormap("Blues", size(g_opt[:,:],1)),1,size(g_opt[:,:],1)))
+Dem=groupedbar!(transpose(g_opt[:,:]), bar_position = :stack, lw=0, label=reshape(data["plant_con"][:Plantname], 1, 98), colour=reshape(colormap("Blues", size(g_opt[:,:],1)),1,size(g_opt[:,:],1)), leg=false)
 
 
 
